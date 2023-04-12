@@ -1,0 +1,15 @@
+#img {
+  display: block;
+  margin: auto;
+  height: 128px;
+  width: 128px;
+  padding: 2rem;
+}
+
+
+.field { border-spacing: 0; border-collapse: collapse; }
+.field th { padding: .5em; }
+.field td { border: 1px solid; width: 2em; height: 2em; }
+.field .dug {background: #ffffff;}
+.field .digable { background: #a3a0a0; }
+.field .flag { background: #ff0000;}
